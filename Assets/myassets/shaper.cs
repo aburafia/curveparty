@@ -26,7 +26,7 @@ public class shaper : MonoBehaviour {
         GetComponent<Renderer>().material.SetTexture("_tex_fill", fill);
         GetComponent<Renderer>().material.SetTexture("_tex_line", line);
         GetComponent<Renderer>().material.SetTexture("_tex_mask", mask);
-        GetComponent<Renderer>().material.SetFloat("_scale",scalevalue);
+        //GetComponent<Renderer>().material.SetFloat("_scale",scalevalue);
     }
 
     // Update is called once per frame

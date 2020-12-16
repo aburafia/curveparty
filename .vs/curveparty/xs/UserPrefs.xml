@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7AE59E95-9148-5319-BA4C-3342F8E0248A}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="curveparty" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="myassets" expanded="True">
+                <Node name="material" expanded="True">
+                  <Node name="NewShader.shader" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="74396516-ea0b-422f-a68f-19852390d444" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
